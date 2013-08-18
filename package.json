@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-auth",
+  "version": "0.1.0",
+  "description": "Auth plugin for `ultimate-seed`.",
+  "license": "MIT",
+  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "homepage": "https://github.com/pilwon/node-ultimate-auth",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-ultimate-auth.git"
+  },
+  "keywords": [
+    "ultimate",
+    "auth"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
